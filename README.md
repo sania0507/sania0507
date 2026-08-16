@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Sania 
 
-<!--
-**sania0507/sania0507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science undergrad interested in **AI, backend development, and software engineering**.
 
-Here are some ideas to get you started:
+### 🚀 Currently Building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🤖 RAG-based AI applications
+* ⚙️ Microservices and backend systems
+* 🐳 Containerized applications with Docker
+* 💻 Improving my Data Structures & Algorithms skills
+
+### 🛠️ Tech Stack
+
+**Languages:** Python · C++ · Java · JavaScript
+
+**Frontend:** React · HTML · CSS · Tailwind CSS
+
+**Backend & Tools:** Git · GitHub · Docker · Linux · WSL
+
+### 🏆 Achievements
+
+* GirlScript Summer of Code (GSSoC) — Contributor
+* CGPA: 9.3/10
+
+
+
+---
+
+*Always learning, building, and experimenting.*
