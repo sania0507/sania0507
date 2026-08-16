@@ -19,7 +19,7 @@ I'm a Computer Science undergrad interested in **AI, backend development, and so
 
 ### 🏆 Achievements
 
-* GirlScript Summer of Code (GSSoC) — Contributor
+* GirlScript Summer of Code (GSSoC) — Open Source Contributor
 * CGPA: 9.3/10
 ---
 ## 🐍 My Contributions
