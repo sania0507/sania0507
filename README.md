@@ -74,10 +74,6 @@ program, kept as a reference copy.
 * GirlScript Summer of Code 2026 — Open Source Contributor (merged PR into AlgoMate)
 * CGPA: 9.3/10
 
-### 🏆 Achievements
-
-* GirlScript Summer of Code (GSSoC) — Open Source Contributor
-* CGPA: 9.3/10
 
 ## 🐍 My Contributions
 
