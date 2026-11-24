@@ -39,7 +39,7 @@ once than call an API fifty times.
 
 | Repo | What it is |
 | --- | --- |
-| [**StudyStack**](https://github.com/sania0507/StudyStack) | A TypeScript web application for organising study material |
+| [**StudyStack**](https://github.com/sania0507/StudyStack) | A full-stack student productivity application built with React, TypeScript, FastAPI and PostgreSQL. Its backend is split into two independently deployed services: an Auth Service for authentication and JWT-based authorization, and a Main Application Service powering the core features — domain and task management, a notes app, a vision board, and study analytics. |
 | [**MiniAITutorDemo**](https://github.com/sania0507/MiniAITutorDemo) | A Python GUI tutor for K-12 science and maths — answers drawn from a curated in-app knowledge base, so it runs completely offline with no API key |
 | [**E-commerce-Product-Page**](https://github.com/sania0507/E-commerce-Product-Page) | A responsive product page built with HTML and CSS |
 
